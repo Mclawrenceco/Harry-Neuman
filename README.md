@@ -22,7 +22,7 @@ This is a simple command-line interface (CLI) application designed to help you m
 
    If you have Git installed, you can clone the repository:
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/Mclawrenceco/Harry-Neuman.git
    ```
 
    Alternatively, download the script directly from the repository's page.
@@ -31,7 +31,7 @@ This is a simple command-line interface (CLI) application designed to help you m
 
    Open your terminal or command prompt and navigate to the directory where the script is located:
    ```bash
-   cd path/to/script
+   cd Harry-Neuman
    ```
 
 ## Usage
